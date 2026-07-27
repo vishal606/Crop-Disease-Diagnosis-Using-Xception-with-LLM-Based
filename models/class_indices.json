@@ -1,0 +1,16 @@
+{
+  "Corn___Common_Rust": 0,
+  "Corn___Gray_Leaf_Spot": 1,
+  "Corn___Healthy": 2,
+  "Corn___Northern_Leaf_Blight": 3,
+  "Potato___Early_Blight": 4,
+  "Potato___Healthy": 5,
+  "Potato___Late_Blight": 6,
+  "Rice___Brown_Spot": 7,
+  "Rice___Healthy": 8,
+  "Rice___Leaf_Blast": 9,
+  "Rice___Neck_Blast": 10,
+  "Wheat___Brown_Rust": 11,
+  "Wheat___Healthy": 12,
+  "Wheat___Yellow_Rust": 13
+}
