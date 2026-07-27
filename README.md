@@ -228,8 +228,8 @@ See Chapter 5 of the thesis PDF for the full discussion.
 If you use this work, please cite it as:
 
 ```
-[Author Name]. (2026). Explainable Crop Disease Diagnosis Using Xception with LLM-Based Natural Language
-Decision Support for Bangladeshi Crops. M.Sc. Thesis, [University Name].
+Bishal Paul. (2026). Explainable Crop Disease Diagnosis Using Xception with LLM-Based Natural Language
+Decision Support for Bangladeshi Crops. M.Sc. Thesis, AIUB.
 ```
 
 ---
